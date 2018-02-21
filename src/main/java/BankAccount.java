@@ -68,4 +68,8 @@ public class BankAccount {
     public void setInterestRate(double interestRate) {
         this.interestRate = interestRate;
     }
+
+    public void setOwnerName(String ownerName) {
+        this.ownerName = ownerName;
+    }
 }
